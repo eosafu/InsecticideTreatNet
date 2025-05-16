@@ -1,5 +1,4 @@
-# InsecticideTreatNet
-Mapping of Access and Usage of Insecticide-Treated Nets in Nigeria
+# Mapping of Access and Usage of Insecticide-Treated Nets in Nigeria
 
 Malaria remains a major public health challenge in Nigeria with children under five years of age and pregnant women possessing the highest risk. Preventive efforts including indoor residual spraying (IRS) and insecticide-treated nets (ITN) have been implemented over the years but issues such as limited funding, low net coverage, and cultural barriers have hindered progress. This study analyzes ITN ownership and usage trends across Nigeria to assess local-level variations and differences based on household size.
 
