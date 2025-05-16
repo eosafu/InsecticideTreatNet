@@ -7,3 +7,5 @@ This study used data from the Nigeria Demographic and Health Survey (NDHS) and t
 A Bayesian spatio-temporal model was applied to capture variations in access and usage. The model was estimated using Integrated Nested Laplace Approximation (INLA).
 
 The codes used in the analysis are available on this repository. 
+
+![image](https://github.com/user-attachments/assets/3db39b09-5269-486f-8aad-da0cc37bec82)
